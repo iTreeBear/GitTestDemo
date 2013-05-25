@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface TLBViewController : UIViewController
+- (IBAction)tapMeButtonIsTapped:(id)sender;
 
 @end

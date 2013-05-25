@@ -26,4 +26,8 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)tapMeButtonIsTapped:(id)sender
+{
+    NSLog(@"tap me button is tapped!");
+}
 @end
